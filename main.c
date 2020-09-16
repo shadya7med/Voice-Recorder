@@ -19,7 +19,7 @@
 #include"MAX7219_Interface.h"
 #include"RAM_INT.h"
 
-/*new comment to test changes*/
+
 
 void AdcCap_MemoStore(void);
 void Read_GenPWM(void);
